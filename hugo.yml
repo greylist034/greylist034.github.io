@@ -1,0 +1,56 @@
+languageCode: ru-ru
+title: Серый список
+theme: ananke
+menu:
+  main:
+    - identifier: data
+      name: Новые
+      url: /data/
+      weight: 50
+    - identifier: tags
+      name: Теги
+      url: /tags/
+      weight: 45
+    - identifier: onepage
+      name: One-page
+      url: /onepage/
+      weight: 40
+#    - identifier: format
+#      name: Формат данных
+#      url: /format/
+#      weight: 30
+    - identifier: about
+      name: О проекте
+      url: /about/
+      weight: 20
+
+      
+
+
+
+params:
+  TaxonomiesInRSS: ["tags"]
+  ShowFullTextinRSS: true
+  cover:
+    responsiveImages: true
+    linkFullImages: post
+  mainSections:
+    - posts
+  custom_css:
+    - custom.css
+
+
+
+
+
+#uglyURLs: true
+#relativeURLs: true
+
+markup:
+#  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+#      xhtml: true
+
+
