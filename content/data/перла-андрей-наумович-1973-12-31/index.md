@@ -5,8 +5,8 @@ lastmodified: "2023-12-18"
 summary: '31.12.1973 Зет-чиновник. Соорганизатор псевдо референдума в Херсонской области.  . https\://t.me/svtvnews/37302. https\://sevastopol.su/news/rukovodit-obshchestvennymi-kommunikaciyami-sevastopolya-naznachen-uralec-andrey-perla. http\://fedpress.ru/news/92/policy/1804274 . https\://versia.ru/v-sevastopole-uvolen-glava-departamenta-po-svyazyam-s-obshhestvennostyu-andrej-perla'
 tags: 
     - екатеринбург
-    - химки
     - самара
+    - химки
 ---
 <!--# pp2-->
 <!--## Фигурант-->
@@ -78,8 +78,8 @@ https://versia.ru/v-sevastopole-uvolen-glava-departamenta-po-svyazyam-s-obshhest
 ### Метаданные
 #### Теги
 - екатеринбург
-- химки
 - самара
+- химки
 #### Дата добавления
 18.12.2023
 #### Дата последнего обновления
